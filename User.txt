@@ -1,4 +1,7 @@
 class User{
     Get the User Data
     Remove the User Data
+    Create an avatar for user 
+    Let us consider a and b of values 10 and 200 
+    then add both the values then the value be 210
 }
