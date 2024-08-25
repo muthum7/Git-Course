@@ -1,0 +1,3 @@
+class User{
+    Get the User Data
+}
