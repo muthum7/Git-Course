@@ -1,3 +1,4 @@
 class User{
     Get the User Data
+    Remove the User Data
 }
